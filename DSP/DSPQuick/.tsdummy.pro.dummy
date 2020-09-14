@@ -1,0 +1,2 @@
+include(C:/repos/DSP/DSP/build-DSP-Desktop_Qt_5_12_3_MSVC2017_64bit-Debug/DSPQuick/.ts-sources.pri) 
+include(C:/repos/DSP/DSP/DSP/DSPQuick/DSPQuick.pro) 
