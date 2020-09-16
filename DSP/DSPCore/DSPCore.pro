@@ -9,10 +9,13 @@ TARGET = DSPCore
 DEFINES += QT_DEPRECATED_WARNINGS
 
 HEADERS += \
+	DSPUtility/LINQ.h \
+	DSPUtility/Thread.h \
 	dspapp.h \
 	mainviewmodel.h
 
 SOURCES += \
+	DSPUtility/Thread.cpp \
 	dspapp.cpp \
 	mainviewmodel.cpp
 
